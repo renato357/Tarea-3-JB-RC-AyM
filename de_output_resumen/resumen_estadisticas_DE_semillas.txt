@@ -1,0 +1,448 @@
+================================================================================
+ RESUMEN DE ESTADÍSTICAS PARA EVOLUCIÓN DIFERENCIAL (DE) 
+Generado el: 2025-06-02 22:40:34
+Número de ejecuciones por configuración: 10
+Semillas utilizadas para las ejecuciones (repetidas para cada config/función): [101, 202, 303, 404, 505, 606, 707, 808, 909, 1010]
+================================================================================
+
+
+--- FUNCIÓN OBJETIVO: F1 ---
+
+  Configuración DE 1:
+    Parámetros: NP:50, F:0.7, CR:0.8, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -5.160000e+02
+      Peor Fitness (Máximo):    -5.160000e+02
+      Promedio Fitness:         -5.160000e+02
+      Mediana Fitness:          -5.160000e+02
+      Desviación Estándar:      0.000000e+00
+
+  Configuración DE 2:
+    Parámetros: NP:25, F:0.5, CR:0.8, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -5.160000e+02
+      Peor Fitness (Máximo):    -5.160000e+02
+      Promedio Fitness:         -5.160000e+02
+      Mediana Fitness:          -5.160000e+02
+      Desviación Estándar:      0.000000e+00
+
+  Configuración DE 3:
+    Parámetros: NP:75, F:0.7, CR:0.95, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -5.160000e+02
+      Peor Fitness (Máximo):    -5.160000e+02
+      Promedio Fitness:         -5.160000e+02
+      Mediana Fitness:          -5.160000e+02
+      Desviación Estándar:      0.000000e+00
+
+  Configuración DE 4:
+    Parámetros: NP:50, F:0.9, CR:0.8, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -5.160000e+02
+      Peor Fitness (Máximo):    -5.160000e+02
+      Promedio Fitness:         -5.160000e+02
+      Mediana Fitness:          -5.160000e+02
+      Desviación Estándar:      0.000000e+00
+
+  Configuración DE 5:
+    Parámetros: NP:50, F:0.7, CR:0.5, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -5.160000e+02
+      Peor Fitness (Máximo):    -5.160000e+02
+      Promedio Fitness:         -5.160000e+02
+      Mediana Fitness:          -5.160000e+02
+      Desviación Estándar:      0.000000e+00
+
+  Configuración DE 6:
+    Parámetros: NP:30, F:0.6, CR:0.7, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -5.160000e+02
+      Peor Fitness (Máximo):    -5.160000e+02
+      Promedio Fitness:         -5.160000e+02
+      Mediana Fitness:          -5.160000e+02
+      Desviación Estándar:      0.000000e+00
+
+  Configuración DE 7:
+    Parámetros: NP:60, F:0.8, CR:0.9, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -5.160000e+02
+      Peor Fitness (Máximo):    -5.160000e+02
+      Promedio Fitness:         -5.160000e+02
+      Mediana Fitness:          -5.160000e+02
+      Desviación Estándar:      0.000000e+00
+
+  Configuración DE 8:
+    Parámetros: NP:50, F:0.4, CR:0.4, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -5.160000e+02
+      Peor Fitness (Máximo):    -5.160000e+02
+      Promedio Fitness:         -5.160000e+02
+      Mediana Fitness:          -5.160000e+02
+      Desviación Estándar:      0.000000e+00
+
+  Configuración DE 9:
+    Parámetros: NP:50, F:1, CR:1, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -5.160000e+02
+      Peor Fitness (Máximo):    -5.160000e+02
+      Promedio Fitness:         -5.160000e+02
+      Mediana Fitness:          -5.160000e+02
+      Desviación Estándar:      0.000000e+00
+
+  Configuración DE 10:
+    Parámetros: NP:40, F:0.75, CR:0.85, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -5.160000e+02
+      Peor Fitness (Máximo):    -5.160000e+02
+      Promedio Fitness:         -5.160000e+02
+      Mediana Fitness:          -5.160000e+02
+      Desviación Estándar:      0.000000e+00
+--------------------------------
+
+
+--- FUNCIÓN OBJETIVO: F2 ---
+
+  Configuración DE 1:
+    Parámetros: NP:50, F:0.7, CR:0.8, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -1.941046e+00
+      Peor Fitness (Máximo):    -1.941046e+00
+      Promedio Fitness:         -1.941046e+00
+      Mediana Fitness:          -1.941046e+00
+      Desviación Estándar:      0.000000e+00
+
+  Configuración DE 2:
+    Parámetros: NP:25, F:0.5, CR:0.8, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -1.941046e+00
+      Peor Fitness (Máximo):    -1.941046e+00
+      Promedio Fitness:         -1.941046e+00
+      Mediana Fitness:          -1.941046e+00
+      Desviación Estándar:      9.420555e-16
+
+  Configuración DE 3:
+    Parámetros: NP:75, F:0.7, CR:0.95, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -1.941046e+00
+      Peor Fitness (Máximo):    -1.941046e+00
+      Promedio Fitness:         -1.941046e+00
+      Mediana Fitness:          -1.941046e+00
+      Desviación Estándar:      0.000000e+00
+
+  Configuración DE 4:
+    Parámetros: NP:50, F:0.9, CR:0.8, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -1.941046e+00
+      Peor Fitness (Máximo):    -1.941046e+00
+      Promedio Fitness:         -1.941046e+00
+      Mediana Fitness:          -1.941046e+00
+      Desviación Estándar:      0.000000e+00
+
+  Configuración DE 5:
+    Parámetros: NP:50, F:0.7, CR:0.5, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -1.941046e+00
+      Peor Fitness (Máximo):    -1.941046e+00
+      Promedio Fitness:         -1.941046e+00
+      Mediana Fitness:          -1.941046e+00
+      Desviación Estándar:      0.000000e+00
+
+  Configuración DE 6:
+    Parámetros: NP:30, F:0.6, CR:0.7, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -1.941046e+00
+      Peor Fitness (Máximo):    -1.941046e+00
+      Promedio Fitness:         -1.941046e+00
+      Mediana Fitness:          -1.941046e+00
+      Desviación Estándar:      0.000000e+00
+
+  Configuración DE 7:
+    Parámetros: NP:60, F:0.8, CR:0.9, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -1.941046e+00
+      Peor Fitness (Máximo):    -1.941046e+00
+      Promedio Fitness:         -1.941046e+00
+      Mediana Fitness:          -1.941046e+00
+      Desviación Estándar:      0.000000e+00
+
+  Configuración DE 8:
+    Parámetros: NP:50, F:0.4, CR:0.4, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -1.941046e+00
+      Peor Fitness (Máximo):    -1.941046e+00
+      Promedio Fitness:         -1.941046e+00
+      Mediana Fitness:          -1.941046e+00
+      Desviación Estándar:      0.000000e+00
+
+  Configuración DE 9:
+    Parámetros: NP:50, F:1, CR:1, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -1.941046e+00
+      Peor Fitness (Máximo):    -1.941046e+00
+      Promedio Fitness:         -1.941046e+00
+      Mediana Fitness:          -1.941046e+00
+      Desviación Estándar:      0.000000e+00
+
+  Configuración DE 10:
+    Parámetros: NP:40, F:0.75, CR:0.85, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -1.941046e+00
+      Peor Fitness (Máximo):    -1.941046e+00
+      Promedio Fitness:         -1.941046e+00
+      Mediana Fitness:          -1.941046e+00
+      Desviación Estándar:      0.000000e+00
+--------------------------------
+
+
+--- FUNCIÓN OBJETIVO: F3 ---
+
+  Configuración DE 1:
+    Parámetros: NP:50, F:0.7, CR:0.8, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   1.428054e-13
+      Peor Fitness (Máximo):    5.864541e-06
+      Promedio Fitness:         6.180328e-07
+      Mediana Fitness:          6.147326e-10
+      Desviación Estándar:      1.751261e-06
+
+  Configuración DE 2:
+    Parámetros: NP:25, F:0.5, CR:0.8, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   1.021019e-19
+      Peor Fitness (Máximo):    2.816472e-13
+      Promedio Fitness:         3.107019e-14
+      Mediana Fitness:          9.044026e-17
+      Desviación Estándar:      8.376787e-14
+
+  Configuración DE 3:
+    Parámetros: NP:75, F:0.7, CR:0.95, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   2.161057e-13
+      Peor Fitness (Máximo):    1.439117e-06
+      Promedio Fitness:         2.928777e-07
+      Mediana Fitness:          1.666586e-10
+      Desviación Estándar:      5.648780e-07
+
+  Configuración DE 4:
+    Parámetros: NP:50, F:0.9, CR:0.8, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   2.633186e-07
+      Peor Fitness (Máximo):    4.837041e-03
+      Promedio Fitness:         5.289598e-04
+      Mediana Fitness:          2.647027e-06
+      Desviación Estándar:      1.441768e-03
+
+  Configuración DE 5:
+    Parámetros: NP:50, F:0.7, CR:0.5, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   3.176493e-09
+      Peor Fitness (Máximo):    3.158068e-04
+      Promedio Fitness:         5.249965e-05
+      Mediana Fitness:          3.563453e-06
+      Desviación Estándar:      1.006303e-04
+
+  Configuración DE 6:
+    Parámetros: NP:30, F:0.6, CR:0.7, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   2.858608e-13
+      Peor Fitness (Máximo):    2.259359e-10
+      Promedio Fitness:         6.648245e-11
+      Mediana Fitness:          4.248068e-12
+      Desviación Estándar:      8.815176e-11
+
+  Configuración DE 7:
+    Parámetros: NP:60, F:0.8, CR:0.9, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   1.584723e-11
+      Peor Fitness (Máximo):    1.271864e-08
+      Promedio Fitness:         2.937494e-09
+      Mediana Fitness:          1.925692e-09
+      Desviación Estándar:      3.759512e-09
+
+  Configuración DE 8:
+    Parámetros: NP:50, F:0.4, CR:0.4, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   1.703452e-12
+      Peor Fitness (Máximo):    4.490980e-05
+      Promedio Fitness:         4.499234e-06
+      Mediana Fitness:          1.377518e-10
+      Desviación Estándar:      1.347021e-05
+
+  Configuración DE 9:
+    Parámetros: NP:50, F:1, CR:1, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   1.944676e-07
+      Peor Fitness (Máximo):    1.215814e-04
+      Promedio Fitness:         2.024784e-05
+      Mediana Fitness:          4.401295e-06
+      Desviación Estándar:      3.552030e-05
+
+  Configuración DE 10:
+    Parámetros: NP:40, F:0.75, CR:0.85, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   4.007943e-12
+      Peor Fitness (Máximo):    3.263998e-08
+      Promedio Fitness:         4.950566e-09
+      Mediana Fitness:          1.720127e-09
+      Desviación Estándar:      9.425251e-09
+--------------------------------
+
+
+--- FUNCIÓN OBJETIVO: F4 ---
+
+  Configuración DE 1:
+    Parámetros: NP:50, F:0.7, CR:0.8, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -4.485426e+01
+      Peor Fitness (Máximo):    -4.012563e+01
+      Promedio Fitness:         -4.293951e+01
+      Mediana Fitness:          -4.301345e+01
+      Desviación Estándar:      1.258710e+00
+
+  Configuración DE 2:
+    Parámetros: NP:25, F:0.5, CR:0.8, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -4.577808e+01
+      Peor Fitness (Máximo):    -4.566258e+01
+      Promedio Fitness:         -4.576016e+01
+      Mediana Fitness:          -4.577370e+01
+      Desviación Estándar:      3.384464e-02
+
+  Configuración DE 3:
+    Parámetros: NP:75, F:0.7, CR:0.95, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -4.116414e+01
+      Peor Fitness (Máximo):    -3.663635e+01
+      Promedio Fitness:         -3.899844e+01
+      Mediana Fitness:          -3.923514e+01
+      Desviación Estándar:      1.602584e+00
+
+  Configuración DE 4:
+    Parámetros: NP:50, F:0.9, CR:0.8, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -3.741940e+01
+      Peor Fitness (Máximo):    -2.341321e+01
+      Promedio Fitness:         -3.149904e+01
+      Mediana Fitness:          -3.277601e+01
+      Desviación Estándar:      4.203378e+00
+
+  Configuración DE 5:
+    Parámetros: NP:50, F:0.7, CR:0.5, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -4.555770e+01
+      Peor Fitness (Máximo):    -4.543396e+01
+      Promedio Fitness:         -4.546393e+01
+      Mediana Fitness:          -4.544659e+01
+      Desviación Estándar:      4.020395e-02
+
+  Configuración DE 6:
+    Parámetros: NP:30, F:0.6, CR:0.7, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -4.575805e+01
+      Peor Fitness (Máximo):    -4.555443e+01
+      Promedio Fitness:         -4.567520e+01
+      Mediana Fitness:          -4.569719e+01
+      Desviación Estándar:      6.812402e-02
+
+  Configuración DE 7:
+    Parámetros: NP:60, F:0.8, CR:0.9, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -3.755380e+01
+      Peor Fitness (Máximo):    -2.807174e+01
+      Promedio Fitness:         -3.271960e+01
+      Mediana Fitness:          -3.279863e+01
+      Desviación Estándar:      3.066799e+00
+
+  Configuración DE 8:
+    Parámetros: NP:50, F:0.4, CR:0.4, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -4.577837e+01
+      Peor Fitness (Máximo):    -4.577802e+01
+      Promedio Fitness:         -4.577816e+01
+      Mediana Fitness:          -4.577815e+01
+      Desviación Estándar:      1.144309e-04
+
+  Configuración DE 9:
+    Parámetros: NP:50, F:1, CR:1, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -3.078449e+01
+      Peor Fitness (Máximo):    -1.379130e+01
+      Promedio Fitness:         -2.117036e+01
+      Mediana Fitness:          -2.153449e+01
+      Desviación Estándar:      5.216035e+00
+
+  Configuración DE 10:
+    Parámetros: NP:40, F:0.75, CR:0.85, Gens:100
+    Resultados de las 10 ejecuciones válidas (de 10 totales):
+      Mejor Fitness (Mínimo):   -4.175652e+01
+      Peor Fitness (Máximo):    -3.190865e+01
+      Promedio Fitness:         -3.873522e+01
+      Mediana Fitness:          -3.946229e+01
+      Desviación Estándar:      2.574730e+00
+--------------------------------
+
+
+================================================================================
+ RANKING DE MEJORES CONFIGURACIONES POR FUNCIÓN OBJETIVO (DE) 
+ (Basado en el Mejor Fitness (Mínimo) obtenido en las ejecuciones con semillas fijas) 
+================================================================================
+
+
+--- FUNCIÓN OBJETIVO: F1 ---
+  Ranking de configuraciones:
+    Rango 1: Config 1 (NP:50, F:0.7, CR:0.8, Gens:100) - Mejor Fitness: -5.160000e+02
+    Rango 1: Config 2 (NP:25, F:0.5, CR:0.8, Gens:100) - Mejor Fitness: -5.160000e+02
+    Rango 1: Config 3 (NP:75, F:0.7, CR:0.95, Gens:100) - Mejor Fitness: -5.160000e+02
+    Rango 1: Config 4 (NP:50, F:0.9, CR:0.8, Gens:100) - Mejor Fitness: -5.160000e+02
+    Rango 1: Config 5 (NP:50, F:0.7, CR:0.5, Gens:100) - Mejor Fitness: -5.160000e+02
+    Rango 1: Config 6 (NP:30, F:0.6, CR:0.7, Gens:100) - Mejor Fitness: -5.160000e+02
+    Rango 1: Config 7 (NP:60, F:0.8, CR:0.9, Gens:100) - Mejor Fitness: -5.160000e+02
+    Rango 1: Config 8 (NP:50, F:0.4, CR:0.4, Gens:100) - Mejor Fitness: -5.160000e+02
+    Rango 1: Config 9 (NP:50, F:1, CR:1, Gens:100) - Mejor Fitness: -5.160000e+02
+    Rango 1: Config 10 (NP:40, F:0.75, CR:0.85, Gens:100) - Mejor Fitness: -5.160000e+02
+--------------------------------
+
+
+--- FUNCIÓN OBJETIVO: F2 ---
+  Ranking de configuraciones:
+    Rango 1: Config 1 (NP:50, F:0.7, CR:0.8, Gens:100) - Mejor Fitness: -1.941046e+00
+    Rango 1: Config 2 (NP:25, F:0.5, CR:0.8, Gens:100) - Mejor Fitness: -1.941046e+00
+    Rango 1: Config 3 (NP:75, F:0.7, CR:0.95, Gens:100) - Mejor Fitness: -1.941046e+00
+    Rango 1: Config 4 (NP:50, F:0.9, CR:0.8, Gens:100) - Mejor Fitness: -1.941046e+00
+    Rango 1: Config 5 (NP:50, F:0.7, CR:0.5, Gens:100) - Mejor Fitness: -1.941046e+00
+    Rango 1: Config 6 (NP:30, F:0.6, CR:0.7, Gens:100) - Mejor Fitness: -1.941046e+00
+    Rango 1: Config 7 (NP:60, F:0.8, CR:0.9, Gens:100) - Mejor Fitness: -1.941046e+00
+    Rango 1: Config 8 (NP:50, F:0.4, CR:0.4, Gens:100) - Mejor Fitness: -1.941046e+00
+    Rango 1: Config 9 (NP:50, F:1, CR:1, Gens:100) - Mejor Fitness: -1.941046e+00
+    Rango 1: Config 10 (NP:40, F:0.75, CR:0.85, Gens:100) - Mejor Fitness: -1.941046e+00
+--------------------------------
+
+
+--- FUNCIÓN OBJETIVO: F3 ---
+  Ranking de configuraciones:
+    Rango 1: Config 2 (NP:25, F:0.5, CR:0.8, Gens:100) - Mejor Fitness: 1.021019e-19
+    Rango 1: Config 1 (NP:50, F:0.7, CR:0.8, Gens:100) - Mejor Fitness: 1.428054e-13
+    Rango 1: Config 3 (NP:75, F:0.7, CR:0.95, Gens:100) - Mejor Fitness: 2.161057e-13
+    Rango 1: Config 6 (NP:30, F:0.6, CR:0.7, Gens:100) - Mejor Fitness: 2.858608e-13
+    Rango 1: Config 8 (NP:50, F:0.4, CR:0.4, Gens:100) - Mejor Fitness: 1.703452e-12
+    Rango 1: Config 10 (NP:40, F:0.75, CR:0.85, Gens:100) - Mejor Fitness: 4.007943e-12
+    Rango 1: Config 7 (NP:60, F:0.8, CR:0.9, Gens:100) - Mejor Fitness: 1.584723e-11
+    Rango 1: Config 5 (NP:50, F:0.7, CR:0.5, Gens:100) - Mejor Fitness: 3.176493e-09
+    Rango 9: Config 9 (NP:50, F:1, CR:1, Gens:100) - Mejor Fitness: 1.944676e-07
+    Rango 10: Config 4 (NP:50, F:0.9, CR:0.8, Gens:100) - Mejor Fitness: 2.633186e-07
+--------------------------------
+
+
+--- FUNCIÓN OBJETIVO: F4 ---
+  Ranking de configuraciones:
+    Rango 1: Config 8 (NP:50, F:0.4, CR:0.4, Gens:100) - Mejor Fitness: -4.577837e+01
+    Rango 1: Config 2 (NP:25, F:0.5, CR:0.8, Gens:100) - Mejor Fitness: -4.577808e+01
+    Rango 3: Config 6 (NP:30, F:0.6, CR:0.7, Gens:100) - Mejor Fitness: -4.575805e+01
+    Rango 4: Config 5 (NP:50, F:0.7, CR:0.5, Gens:100) - Mejor Fitness: -4.555770e+01
+    Rango 5: Config 1 (NP:50, F:0.7, CR:0.8, Gens:100) - Mejor Fitness: -4.485426e+01
+    Rango 6: Config 10 (NP:40, F:0.75, CR:0.85, Gens:100) - Mejor Fitness: -4.175652e+01
+    Rango 7: Config 3 (NP:75, F:0.7, CR:0.95, Gens:100) - Mejor Fitness: -4.116414e+01
+    Rango 8: Config 7 (NP:60, F:0.8, CR:0.9, Gens:100) - Mejor Fitness: -3.755380e+01
+    Rango 9: Config 4 (NP:50, F:0.9, CR:0.8, Gens:100) - Mejor Fitness: -3.741940e+01
+    Rango 10: Config 9 (NP:50, F:1, CR:1, Gens:100) - Mejor Fitness: -3.078449e+01
+--------------------------------

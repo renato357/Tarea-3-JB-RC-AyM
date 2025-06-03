@@ -1,0 +1,129 @@
+
+--- PROCESANDO FUNCIÓN OBJETIVO: F1 ---
+  --- Metaheurística: ACO ---
+  --- Metaheurística: BA ---
+  --- Metaheurística: DE ---
+  --- Metaheurística: GA ---
+  --- Metaheurística: PSO ---
+
+--- PROCESANDO FUNCIÓN OBJETIVO: F2 ---
+  --- Metaheurística: ACO ---
+  --- Metaheurística: BA ---
+  --- Metaheurística: DE ---
+  --- Metaheurística: GA ---
+  --- Metaheurística: PSO ---
+
+--- PROCESANDO FUNCIÓN OBJETIVO: F3 ---
+  --- Metaheurística: ACO ---
+  --- Metaheurística: BA ---
+  --- Metaheurística: DE ---
+  --- Metaheurística: GA ---
+  --- Metaheurística: PSO ---
+
+--- PROCESANDO FUNCIÓN OBJETIVO: F4 ---
+  --- Metaheurística: ACO ---
+  --- Metaheurística: BA ---
+  --- Metaheurística: DE ---
+  --- Metaheurística: GA ---
+  --- Metaheurística: PSO ---
+
+
+================================================================================
+ RESUMEN DE MEJORES CONFIGURACIONES POR FUNCIÓN Y METAHEURÍSTICA 
+================================================================================
+
+Función: F1
+--------------------------------------------------
+  Metaheurística: ACO
+    Mejor Configuración (Índice de Corrida: 1):
+      Parámetros: num_iteraciones=100, num_hormigas=30, tamano_archivo=10, q_param_seleccion=0.2, xi_param_desviacion=0.85
+      Mejor Fitness Obtenido: -5.160000e+02
+  Metaheurística: BA
+    Mejor Configuración (Índice de Corrida: 8):
+      Parámetros: num_iteraciones=100, num_murcielagos=50, A_inicial=0.25, r_inicial_max=0.5, f_min=0, f_max=2, alpha_loudness=0.9, gamma_pulserate=0.9
+      Mejor Fitness Obtenido: -5.159997e+02
+  Metaheurística: DE
+    Mejor Configuración (Índice de Corrida: 1):
+      Parámetros: num_generaciones=100, tamano_poblacion=50, factor_mutacion_F=0.7, prob_crossover_CR=0.8
+      Mejor Fitness Obtenido: -5.160000e+02
+  Metaheurística: GA
+    Mejor Configuración (Índice de Corrida: 1):
+      Parámetros: num_generaciones=100, tamano_poblacion=100, prob_crossover=0.8, prob_mutacion_gen=0.1, tamano_torneo=3, sigma_mutacion=0.1, tasa_elitismo=0.05
+      Mejor Fitness Obtenido: -5.160000e+02
+  Metaheurística: PSO
+    Mejor Configuración (Índice de Corrida: 1):
+      Parámetros: num_iteraciones=100, num_particulas=50, w_inercia=0.7, c1_cognitivo=1.5, c2_social=1.5, limite_velocidad_factor=0.5
+      Mejor Fitness Obtenido: -5.160000e+02
+==================================================
+
+Función: F2
+--------------------------------------------------
+  Metaheurística: ACO
+    Mejor Configuración (Índice de Corrida: 1):
+      Parámetros: num_iteraciones=100, num_hormigas=30, tamano_archivo=10, q_param_seleccion=0.2, xi_param_desviacion=0.85
+      Mejor Fitness Obtenido: -1.941046e+00
+  Metaheurística: BA
+    Mejor Configuración (Índice de Corrida: 1):
+      Parámetros: num_iteraciones=100, num_murcielagos=50, A_inicial=0.75, r_inicial_max=0.5, f_min=0, f_max=2, alpha_loudness=0.9, gamma_pulserate=0.9
+      Mejor Fitness Obtenido: -1.941046e+00
+  Metaheurística: DE
+    Mejor Configuración (Índice de Corrida: 1):
+      Parámetros: num_generaciones=100, tamano_poblacion=50, factor_mutacion_F=0.7, prob_crossover_CR=0.8
+      Mejor Fitness Obtenido: -1.941046e+00
+  Metaheurística: GA
+    Mejor Configuración (Índice de Corrida: 1):
+      Parámetros: num_generaciones=100, tamano_poblacion=100, prob_crossover=0.8, prob_mutacion_gen=0.1, tamano_torneo=3, sigma_mutacion=0.1, tasa_elitismo=0.05
+      Mejor Fitness Obtenido: -1.941046e+00
+  Metaheurística: PSO
+    Mejor Configuración (Índice de Corrida: 1):
+      Parámetros: num_iteraciones=100, num_particulas=50, w_inercia=0.7, c1_cognitivo=1.5, c2_social=1.5, limite_velocidad_factor=0.5
+      Mejor Fitness Obtenido: -1.941046e+00
+==================================================
+
+Función: F3
+--------------------------------------------------
+  Metaheurística: ACO
+    Mejor Configuración (Índice de Corrida: 8):
+      Parámetros: num_iteraciones=100, num_hormigas=30, tamano_archivo=10, q_param_seleccion=0.05, xi_param_desviacion=0.85
+      Mejor Fitness Obtenido: 3.961101e-15
+  Metaheurística: BA
+    Mejor Configuración (Índice de Corrida: 7):
+      Parámetros: num_iteraciones=100, num_murcielagos=60, A_inicial=0.6, r_inicial_max=0.4, f_min=0.2, f_max=1.8, alpha_loudness=0.92, gamma_pulserate=0.88
+      Mejor Fitness Obtenido: 1.578850e+01
+  Metaheurística: DE
+    Mejor Configuración (Índice de Corrida: 2):
+      Parámetros: num_generaciones=100, tamano_poblacion=25, factor_mutacion_F=0.5, prob_crossover_CR=0.8
+      Mejor Fitness Obtenido: 1.027252e-14
+  Metaheurística: GA
+    Mejor Configuración (Índice de Corrida: 10):
+      Parámetros: num_generaciones=100, tamano_poblacion=70, prob_crossover=0.85, prob_mutacion_gen=0.12, tamano_torneo=4, sigma_mutacion=0.08, tasa_elitismo=0.08
+      Mejor Fitness Obtenido: 3.895942e-02
+  Metaheurística: PSO
+    Mejor Configuración (Índice de Corrida: 2):
+      Parámetros: num_iteraciones=100, num_particulas=25, w_inercia=0.4, c1_cognitivo=1.5, c2_social=1.5, limite_velocidad_factor=0.5
+      Mejor Fitness Obtenido: 1.919758e-25
+==================================================
+
+Función: F4
+--------------------------------------------------
+  Metaheurística: ACO
+    Mejor Configuración (Índice de Corrida: 10):
+      Parámetros: num_iteraciones=100, num_hormigas=25, tamano_archivo=8, q_param_seleccion=0.25, xi_param_desviacion=0.9
+      Mejor Fitness Obtenido: -4.577847e+01
+  Metaheurística: BA
+    Mejor Configuración (Índice de Corrida: 3):
+      Parámetros: num_iteraciones=100, num_murcielagos=70, A_inicial=0.75, r_inicial_max=0.2, f_min=0, f_max=2, alpha_loudness=0.9, gamma_pulserate=0.9
+      Mejor Fitness Obtenido: -2.466114e+01
+  Metaheurística: DE
+    Mejor Configuración (Índice de Corrida: 8):
+      Parámetros: num_generaciones=100, tamano_poblacion=50, factor_mutacion_F=0.4, prob_crossover_CR=0.4
+      Mejor Fitness Obtenido: -4.577821e+01
+  Metaheurística: GA
+    Mejor Configuración (Índice de Corrida: 5):
+      Parámetros: num_generaciones=100, tamano_poblacion=100, prob_crossover=0.8, prob_mutacion_gen=0.1, tamano_torneo=7, sigma_mutacion=0.1, tasa_elitismo=0
+      Mejor Fitness Obtenido: -4.577406e+01
+  Metaheurística: PSO
+    Mejor Configuración (Índice de Corrida: 3):
+      Parámetros: num_iteraciones=100, num_particulas=75, w_inercia=0.7, c1_cognitivo=2, c2_social=1, limite_velocidad_factor=0.5
+      Mejor Fitness Obtenido: -4.577847e+01
+==================================================
